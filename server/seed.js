@@ -1,0 +1,10 @@
+export const seedProducts = [
+  {id:'p1',name:'The Everyday Notebook',category:'Stationery',price:149,stock:45,icon:'notebook',color:'#dce3ce',tag:'BESTSELLER',description:'Your next big idea starts here. A5 notebook with 160 ruled pages, smooth 90 GSM paper, and a durable cloth-textured cover.'},
+  {id:'p2',name:'Campus Carry Backpack',category:'Bags & Accessories',price:1299,stock:18,icon:'backpack',color:'#e9d5bd',tag:'CAMPUS FAVOURITE',description:'From early lectures to late library sessions. A roomy everyday backpack with a padded laptop sleeve and water-bottle pockets.'},
+  {id:'p3',name:'Smooth Flow Pen Set',category:'Stationery',price:99,stock:60,icon:'pens',color:'#e5dfef',tag:'',description:'A set of three smooth-writing gel pens. Quick-drying black ink, comfortable grip, and a clean 0.5 mm line.'},
+  {id:'p4',name:'The Daily Tumbler',category:'Lifestyle',price:449,stock:24,icon:'bottle',color:'#d8e4de',tag:'NEW ARRIVAL',description:'Keep your coffee close. A reusable 500 ml insulated tumbler with a secure lid, made for your daily campus routine.'},
+  {id:'p5',name:'Essential Lab Coat',category:'Lab Essentials',price:599,stock:16,icon:'coat',color:'#e6e7e2',tag:'',description:'A practical unisex cotton lab coat with three pockets and full sleeves. Standard medium size for your essential lab sessions.'},
+  {id:'p6',name:'Focus Desk Planner',category:'Stationery',price:229,stock:32,icon:'planner',color:'#efddc8',tag:'',description:'A little structure for a busy semester. An undated weekly desk planner with space for priorities, deadlines, and small wins.'},
+  {id:'p7',name:'Canvas Everyday Tote',category:'Bags & Accessories',price:349,stock:22,icon:'tote',color:'#e4dfca',tag:'',description:'Lightweight, sturdy, and ready to go. A natural cotton tote for books, groceries, and everything in between.'},
+  {id:'p8',name:'Lab Safety Goggles',category:'Lab Essentials',price:199,stock:30,icon:'goggles',color:'#d6e4e9',tag:'',description:'Clear protective goggles with an adjustable strap. A practical addition to your college laboratory kit.'}
+];
